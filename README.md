@@ -1,2 +1,2 @@
-# dio-introducao-ao-javascript
-Projetos Realizados no curso da dio de introdução ao javascript
+# Introdução ao JavaScript
+Projetos realizados no curso da dio de introdução ao javascript.
